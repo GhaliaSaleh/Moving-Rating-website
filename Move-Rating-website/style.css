@@ -1,0 +1,70 @@
+body {
+  background-color: #f8f9fa;
+}
+
+header {
+  background-color: #212529;
+}
+
+footer {
+  background-color: #212529;
+  color: #fff;
+}
+
+.navbar-brand {
+  font-family: cursive;
+  color: gold;
+  font-size: 24px;
+  
+}
+.navbar-brand:hover{
+  color: orange;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.nav-link:hover {
+color: orange !important;
+}
+
+ul{
+  list-style:circle;
+}
+
+
+
+.featured-reviews,
+.latest-news {
+  padding-top: 80px;
+  padding-bottom: 60px;
+}
+
+.rounded-start {
+  border-radius: 10px 0 0 10px;
+}
+
+.card-icon {
+  font-size: 3rem;
+}
+
+.card-body {
+  padding: 1.25rem;
+}
+
+.custom-card {
+  max-width: 350px;
+}
+
+.custom-card {
+  max-width: 350px;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.card-text {
+  line-height: 1.2;
+}
